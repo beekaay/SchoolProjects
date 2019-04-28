@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AccountController
+comment1.params=
+comment1.target=AccountController()
+comment1.text=\r\n\ AccountController\ Constructor\r\n\r\n
+comment2.params=id
+comment2.target=modelLayer.Account\ getAccount(int)
+comment2.text=\r\n\ Method\ getAccount\r\n\r\n\ @param\ id\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+comment3.params=id
+comment3.target=modelLayer.Customer\ getCustomer(int)
+comment4.params=id
+comment4.target=java.lang.Integer\ getTotalDiscount(int)
+comment5.params=payment\ craftD\ ammountD\ pickupD\ balance
+comment5.target=void\ addAccount(java.lang.String,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer,\ double)
+comment5.text=\r\n\ Method\ addAccount\r\n\r\n\ @param\ payment\ A\ parameter\r\n\ @param\ craftD\ A\ parameter\r\n\ @param\ ammountD\ A\ parameter\r\n\ @param\ pickupD\ A\ parameter\r\n\ @param\ balance\ A\ parameter\r\n
+comment6.params=id
+comment6.target=void\ removeAccount(int)
+comment6.text=\r\n\ Method\ removeAccount\r\n\r\n\ @param\ id\ A\ parameter\r\n
+comment7.params=id\ paymentAgreement\ craftmansDiscount\ amountDiscount\ pickupDiscount\ balance
+comment7.target=void\ updateAccount(int,\ java.lang.String,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer,\ double)
+comment7.text=\r\n\ Method\ updateAccount\r\n\r\n\ @param\ id\ A\ parameter\r\n\ @param\ paymentAgreement\ A\ parameter\r\n\ @param\ craftmansDiscount\ A\ parameter\r\n\ @param\ amountDiscount\ A\ parameter\r\n\ @param\ pickupDiscount\ A\ parameter\r\n\ @param\ balance\ A\ parameter\r\n
+comment8.params=acc\ order
+comment8.target=void\ addOrder(int,\ int)
+comment8.text=\r\n\ Method\ addOrder\r\n\r\n\ @param\ acc\ A\ parameter\r\n\ @param\ order\ A\ parameter\r\n
+comment9.params=acc\ cust
+comment9.target=void\ addCustomer(int,\ int)
+numComments=10

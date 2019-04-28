@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=OrderLine
+comment1.params=
+comment1.target=OrderLine()
+comment2.params=p\ a
+comment2.target=void\ addProduct(int,\ int)
+comment3.params=p
+comment3.target=void\ addProduct(int)
+comment4.params=id\ disc
+comment4.target=void\ finishOrder(int,\ int)
+comment5.params=id
+comment5.target=void\ finishOrder(int)
+comment6.params=
+comment6.target=void\ finishOrder()
+numComments=7

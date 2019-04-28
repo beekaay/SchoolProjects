@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ProductContainer
+comment1.params=
+comment1.target=ProductContainer()
+comment1.text=\r\n\ ProductContainer\ Constructor\r\n\r\n
+comment2.params=
+comment2.target=ProductContainer\ getInstance()
+comment2.text=\r\n\ Method\ getInstance\r\n\r\n\ @return\ The\ return\ value\r\n
+comment3.params=id
+comment3.target=Product\ getProduct(int)
+comment3.text=\r\n\ Method\ getProduct\r\n\r\n\ @param\ id\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+comment4.params=minStock\ maxStock\ serialNumber\ name\ type\ description\ color\ rentPrice\ price\ amount\ supplierPrice\ discount
+comment4.target=void\ addProduct(java.lang.Integer,\ java.lang.Integer,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double,\ double)
+comment4.text=\r\n\ Method\ addProduct\r\n\r\n\ @param\ minStock\ A\ parameter\r\n\ @param\ maxStock\ A\ parameter\r\n\ @param\ serialNumber\ A\ parameter\r\n\ @param\ name\ A\ parameter\r\n\ @param\ type\ A\ parameter\r\n\ @param\ description\ A\ parameter\r\n\ @param\ color\ A\ parameter\r\n\ @param\ rentPrice\ A\ parameter\r\n\ @param\ price\ A\ parameter\r\n\ @param\ amount\ A\ parameter\r\n\ @param\ supplierPrice\ A\ parameter\r\n\ @param\ discount\ A\ parameter\r\n
+comment5.params=id
+comment5.target=void\ removeProduct(int)
+comment5.text=\r\n\ Method\ removeProduct\r\n\r\n\ @param\ id\ A\ parameter\r\n
+comment6.params=id\ minStock\ maxStock\ serialNumber\ name\ type\ description\ color\ rentPrice\ price\ amount\ supplierPrice\ discount
+comment6.target=void\ updateProduct(int,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double,\ double)
+comment6.text=\r\n\ Method\ updateProduct\r\n\r\n\ @param\ id\ A\ parameter\r\n\ @param\ minStock\ A\ parameter\r\n\ @param\ maxStock\ A\ parameter\r\n\ @param\ serialNumber\ A\ parameter\r\n\ @param\ name\ A\ parameter\r\n\ @param\ type\ A\ parameter\r\n\ @param\ description\ A\ parameter\r\n\ @param\ color\ A\ parameter\r\n\ @param\ rentPrice\ A\ parameter\r\n\ @param\ price\ A\ parameter\r\n\ @param\ amount\ A\ parameter\r\n\ @param\ supplierPrice\ A\ parameter\r\n\ @param\ discount\ A\ parameter\r\n
+comment7.params=
+comment7.target=int\ size()
+comment7.text=\r\n\ Method\ size\r\n\r\n\ @return\ The\ return\ value\r\n
+comment8.params=id
+comment8.target=void\ toggleActive(int)
+comment8.text=\r\n\ Method\ toggleActive\r\n\r\n\ @param\ id\ A\ parameter\r\n
+numComments=9

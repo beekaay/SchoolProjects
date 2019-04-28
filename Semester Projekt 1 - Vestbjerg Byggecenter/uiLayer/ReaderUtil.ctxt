@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ReaderUtil
+comment0.text=\r\n\ @author\ (Group\ 6)\r\n\ @version\ (V.1.0)\r\n
+comment1.params=
+comment1.target=ReaderUtil()
+comment1.text=\r\n\ ReaderUtil\ Constructor\r\n\r\n
+comment2.params=
+comment2.target=int\ getInt()
+comment2.text=\r\n\ Method\ getInt\r\n\r\n\ @return\ The\ return\ value\r\n
+comment3.params=
+comment3.target=double\ getDouble()
+comment3.text=\r\n\ Method\ getDouble\r\n\r\n\ @return\ The\ return\ value\r\n
+comment4.params=
+comment4.target=java.lang.String\ getString()
+comment4.text=\r\n\ Method\ getString\r\n\r\n\ @return\ The\ return\ value\r\n
+comment5.params=
+comment5.target=boolean\ getBool()
+comment5.text=\r\n\ Method\ getBool\r\n\r\n\ @return\ The\ return\ value\r\n
+comment6.params=
+comment6.target=void\ clear()
+comment6.text=\r\n\ Method\ clear\r\n\r\n
+numComments=7

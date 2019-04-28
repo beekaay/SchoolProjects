@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RentController
+comment1.params=
+comment1.target=RentController()
+comment1.text=\r\n\ RentController\ Constructor\r\n\r\n
+comment2.params=id
+comment2.target=modelLayer.Rent\ getRent(int)
+comment2.text=\r\n\ Method\ getRent\r\n\r\n\ @param\ id\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+comment3.params=serialNumber\ note\ rentPrice\ deposit
+comment3.target=void\ addRent(java.lang.String,\ java.lang.String,\ double,\ double)
+comment3.text=\r\n\ Method\ addRent\r\n\r\n\ @param\ serialNumber\ A\ parameter\r\n\ @param\ note\ A\ parameter\r\n\ @param\ rentPrice\ A\ parameter\r\n\ @param\ deposit\ A\ parameter\r\n
+comment4.params=id
+comment4.target=void\ removeRent(int)
+comment4.text=\r\n\ Method\ removeRent\r\n\r\n\ @param\ id\ A\ parameter\r\n
+comment5.params=id\ serialNumber\ note\ rentPrice\ deposit
+comment5.target=void\ updateRent(int,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment5.text=\r\n\ Method\ updateRent\r\n\r\n\ @param\ id\ A\ parameter\r\n\ @param\ serialNumber\ A\ parameter\r\n\ @param\ note\ A\ parameter\r\n\ @param\ rentPrice\ A\ parameter\r\n\ @param\ deposit\ A\ parameter\r\n
+comment6.params=id
+comment6.target=void\ toggleActive(int)
+comment6.text=\r\n\ Method\ toggleActive\r\n\r\n\ @param\ id\ A\ parameter\r\n
+numComments=7

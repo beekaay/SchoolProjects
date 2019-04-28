@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SupplierUI
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SupplierUI\ here.\r\n\r\n\ @author\ (Group\ 6)\r\n\ @version\ (V.1.0)\r\n
+comment1.params=
+comment1.target=SupplierUI()
+comment2.params=
+comment2.target=void\ printSupplierMenu()
+comment3.params=
+comment3.target=void\ menu()
+comment4.params=
+comment4.target=void\ getSupplier()
+comment5.params=
+comment5.target=void\ createSupplier()
+comment6.params=
+comment6.target=void\ updateSupplier()
+comment7.params=
+comment7.target=void\ deactivateSupplier()
+comment8.params=
+comment8.target=void\ printError()
+numComments=9

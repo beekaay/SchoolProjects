@@ -1,0 +1,41 @@
+Class documentation
+<---- javadoc command: ---->
+D:\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+D:\BlueJ\lib\bluejcore.jar;D:\BlueJ\lib\junit-4.11.jar;D:\BlueJ\lib\hamcrest-core-1.3.jar;D:\BlueJ\lib\lang-stride.jar;D:\BlueJ\lib\userlib\pi4j-core.jar;D:\BlueJ\lib\userlib\pi4j-device.jar;D:\BlueJ\lib\userlib\pi4j-gpio-extension.jar;D:\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter
+-d
+C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\modelLayer\Supplier.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\modelLayer\Supplier.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\doc\modelLayer\Supplier.html...
+Generating C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\doc\modelLayer\package-frame.html...
+Generating C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\doc\modelLayer\package-summary.html...
+Generating C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\doc\constant-values.html...
+C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\modelLayer\OrderLine.java:7: error: illegal combination of modifiers: public and private
+    public OrderLine() {
+           ^
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\doc\allclasses-frame.html...
+Generating C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\doc\allclasses-noframe.html...
+Generating C:\Users\Toby\Desktop\dmaa0917_1Sem_Projekt_6\Vestbjerg Byggecenter\doc\index.html...
+1 error
